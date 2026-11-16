@@ -12,7 +12,6 @@
 
 ![Hasil Eksekusi Promise Chaining](hasil_console.png)
 
-*(Pastikan nama file gambar sesuai dengan screenshot yang disimpan di folder proyek)*
 
 ---
 
